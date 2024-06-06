@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Program Description ===> 11th Exercise
 
-Example ===> Write A Program That Checks Whether Item M Exists In The Above Tuple Or Not => char = ('m', 'a', 'k', 't', 'a', 'b')
+Example ===> Write A Program That Checks Whether Item M Exists In The Above Tuple Or Not ==> char = ('m', 'a', 'k', 't', 'a', 'b')
 
 Description Of Files:
 
